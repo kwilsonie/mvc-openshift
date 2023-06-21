@@ -5,7 +5,7 @@ ocp4_pull_secret: 'xxxx'
 ##################################
 
 ## Defaults
-ocp_version: 4.12
+ocp_version: 4.12.1
 student_name: lab-user
 
 vcenter_domain: vc.opentlc.com
